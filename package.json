@@ -29,7 +29,8 @@
   },
   "dependencies": {
     "express": "",
-    "jade": ""
+    "jade": "",
+    "node-xml": ""
     },
   "devDependencies": {
     "grunt": "~0.3.8"
