@@ -1,0 +1,38 @@
+{
+  "name": "partytown",
+  "description": "Sweet.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/djbriane/partytown",
+  "author": {
+    "name": "Brian Erickson",
+    "email": "djbriane@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/djbriane/partytown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/djbriane/partytown/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/djbriane/partytown/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/partytown",
+  "engines": {
+    "node": "~0.6.15"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "express": "",
+    "jade": ""
+    },
+  "devDependencies": {
+    "grunt": "~0.3.8"
+  },
+  "keywords": []
+}
