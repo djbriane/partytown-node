@@ -30,7 +30,7 @@
   "dependencies": {
     "express": "",
     "jade": "",
-    "libxmljs-easy": ""
+    "xml2js": ""
     },
   "devDependencies": {
     "grunt": "~0.3.8"
